@@ -1,7 +1,7 @@
 # CLAUDE.md
 
 ## Project Overview
-A Kanban-style Task Management Board — a drag-and-drop web app where tasks move across three status columns: **Todo**, **In Progress**, and **Done**.
+A app-style Task Management Board — a drag-and-drop web app where tasks move across three status columns: **Todo**, **In Progress**, and **Done**.
 
 ## Tech Stack
 - **Frontend:** React (functional components + hooks)
@@ -14,7 +14,7 @@ A Kanban-style Task Management Board — a drag-and-drop web app where tasks mov
 ```
 src/
 ├── components/
-│   ├── Board.tsx          ← Main kanban board layout (3 columns)
+│   ├── Board.tsx          ← Main todo app board layout (3 columns)
 │   ├── Column.tsx         ← Individual column (Todo / In Progress / Done)
 │   ├── TaskCard.tsx       ← Draggable task card UI
 │   ├── TaskForm.tsx       ← Create / edit task modal form
