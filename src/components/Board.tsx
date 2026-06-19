@@ -84,7 +84,7 @@ export default function Board(): ReactElement {
       {/* Board header */}
       <div className="flex items-center justify-between mb-6 max-w-[1040px] mx-auto">
         <div>
-          <h1 className="text-2xl font-bold text-gray-900">Kanban Board</h1>
+          <h1 className="text-2xl font-bold text-gray-900">Todo App Board</h1>
           <p className="text-sm text-gray-500 mt-0.5">Drag cards between columns to update status</p>
         </div>
         <button
