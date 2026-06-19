@@ -1,4 +1,4 @@
-# Kanban Board
+# ToDo App Board
 
 A drag-and-drop task management board built with React 19 and TypeScript. Tasks move across three status columns — **Todo**, **In Progress**, and **Done** — with real-time simulation, optimistic updates, undo/redo history, and full mobile support.
 
